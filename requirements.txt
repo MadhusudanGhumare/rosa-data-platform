@@ -1,0 +1,21 @@
+## 📦 Requirements
+
+```
+pyspark
+```
+
+---
+
+## 💡 Key Learnings
+
+* Built a multi-layer data pipeline
+* Converted CSV data into optimized Parquet format
+* Performed data cleaning and aggregation using PySpark
+
+---
+
+## 🔮 Future Improvements
+
+* Add Airflow orchestration
+* Integrate Delta Lake
+* Deploy on cloud (AWS / GCP)
